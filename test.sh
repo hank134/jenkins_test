@@ -3,6 +3,9 @@ echo "HelloWorld123"
 echo "*****************"
 echo "*OK test.sh*"
 echo "_________________"
-pyton3 -version
+python3 -version
+echo "_________________"
+python -V
+echo "_________________"
 virtualenv venv
 source venv/bin/activate
